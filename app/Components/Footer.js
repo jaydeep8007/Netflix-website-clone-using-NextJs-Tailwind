@@ -8,7 +8,7 @@ const Footer = () => {
                 <div className='scale-90 flex flex-col w-[75vw] h-[50vh] m-auto pt-11'>
                     <span className='my-7'>Questions?  Call 000-800-919-1694</span>
 
-                    <div className='flex flex-row justify-between'>
+                    <div className='flex flex-row gap-2 justify-between mx-2'>
                         <div className='flex flex-col space-y-4'>
                             <span className='underline'>FAQ</span>
                             <span className='underline'>Investor Relations</span>

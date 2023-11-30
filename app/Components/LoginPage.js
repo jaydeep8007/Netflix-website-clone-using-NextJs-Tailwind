@@ -13,10 +13,10 @@ const LoginPage = () => {
                 />
             </head>
             <body class="bg-black text-gray-500 font-sans">
-//             <header class="relative h-screen bg-center bg-cover" style="background-image: url('https://i.ibb.co/vXqDmnh/background.jpg')">
+//            <div className=" bg-cover w-full bg-center  h-[100vh] bg-[url('./assets/Images/bg.jpg')]">
 //                 <div class="absolute top-0 left-0 w-full h-full bg-black opacity-60"></div>
 //                 <div class="absolute top-5 left-5">
-//                     <img src="https://i.ibb.co/r5krrdz/logo.png" alt="Netflix Logo" class="w-40" />
+//                         <span className="z-10" > <img className="h-20 lg:h-36 p-0 m-0" src="../Netflix-Logo.wine.svg" alt="logo" /> </span>
 //                 </div>
 
 //                 <div class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 px-8 py-12 bg-black bg-opacity-60 rounded-lg w-96">
@@ -76,7 +76,7 @@ const LoginPage = () => {
 //                         </div>
 //                     </div>
 //                 </footer>
-//             </header>
+//             </div>
 //         </body>
 
         </html>
