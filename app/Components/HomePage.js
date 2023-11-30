@@ -13,7 +13,7 @@ const HomePage = () => {
                         <LanguageButton />
 
 
-                        <Link href="" className="duration-300 text-xs py-1 lg:text-sm bg-red-600 text-white hover:scale-105    px-4 border border-black rounded shadow cursor-pointer h-8 ">sign in</Link>
+                        <Link href=".//LoginPage" className="duration-300 text-xs py-1 lg:text-sm bg-red-600 text-white hover:scale-105    px-4 border border-black rounded shadow cursor-pointer h-8 ">sign in</Link>
                     </div>
 
                 </nav>
